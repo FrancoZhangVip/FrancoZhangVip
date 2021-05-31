@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
 * Go 官方 Slice 教程图解版 https://mp.weixin.qq.com/s/GLEdRAOG24I38Zn9nh8F-Q
 * 深入研究 Go interface 底层实现 https://halfrost.com/go_interface/
 * Go调试 https://juejin.cn/post/6947868469270577159
+* Go Map 实现 https://juejin.cn/post/6967274139065253902
+* Sync Pool 原理解析 https://juejin.cn/post/6965421491588431909
 
 #### Go 数据库
 
