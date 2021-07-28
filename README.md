@@ -35,6 +35,8 @@ You can click the Preview link to take a look at your changes.
 * Go调试 https://juejin.cn/post/6947868469270577159
 * Go Map 实现 https://juejin.cn/post/6967274139065253902
 * Sync Pool 原理解析 https://juejin.cn/post/6965421491588431909
+* GDB调试Go代码 https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ
+* Go cmd 服务无法退出的小坑 https://mp.weixin.qq.com/s/22C2387AYz980Ye_0w_E1A
 
 #### Go 数据库
 
@@ -43,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 #### Go 网络
 
 * Golang net/http 性能优化 https://gocn.vip/topics/11970
+* Go经典阻塞式TCP协议流解析的实践 https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go
 
 #### Go 算法
 
