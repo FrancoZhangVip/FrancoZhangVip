@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 * Sync Pool 原理解析 https://juejin.cn/post/6965421491588431909
 * GDB调试Go代码 https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ
 * Go cmd 服务无法退出的小坑 https://mp.weixin.qq.com/s/22C2387AYz980Ye_0w_E1A
+* 深度细节 | Go 的 panic 的三种诞生方式 https://mp.weixin.qq.com/s/sGdTVSRxqxIezdlEASB39A
 
 #### Go 数据库
 
