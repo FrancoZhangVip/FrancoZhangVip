@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 * 内存命令 https://juejin.cn/post/7006950034935660574
 * Go内存分配原理 https://juejin.cn/post/7027462102591733797
 * Go defer 关键字 https://juejin.cn/post/7027394017688027172
+* Go defer 原理和源码刨析 https://studygolang.com/articles/35316
 * CAP原理 https://mp.weixin.qq.com/s/tqeNyC12e6aoN_eWtkCXxA
 
 #### Go 数据库
