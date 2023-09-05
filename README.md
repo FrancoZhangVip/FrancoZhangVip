@@ -56,3 +56,7 @@ You can click the Preview link to take a look at your changes.
 #### Go 算法
 
 * Golang 限流算法 https://juejin.cn/post/6959436201443426311
+
+---
+### 数据库
+mysql学习笔记：https://note.youdao.com/ynoteshare/index.html?id=e6318d6f002882921b8689d737642935&type=notebook&_time=1693918462437
